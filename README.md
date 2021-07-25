@@ -1,16 +1,41 @@
-### Hi there 👋
+![raystef66's github stats](https://github-readme-stats.vercel.app/api?username=raystef66&show_icons=true&theme=radical)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raystef66&color=green&style=plastic" alt="raystef66" /> </p>
 
-<!--
-**raystef66/raystef66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1> Hello There! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<p align='center'>
+  
+  <a href="https://www.paypal.me/raystef66/">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://forum.xda-developers.com/m/raystef66.5334294/">
+    <img src="https://img.shields.io/badge/XDA-Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white" />        
+  </a>&nbsp;&nbsp;  
+  
+  <a href="mailto:raystef66@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+   
+</p>
+
+<p align='center'>
+  
+  <a href="https://t.me/raystef66/">
+    <img src="https://img.shields.io/badge/raystef66-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://t.me/crdroidf3">
+    <img src="https://img.shields.io/badge/POCO F3-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://t.me/crdroidlmi">
+    <img src="https://img.shields.io/badge/POCO F2 Pro-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://t.me/crdroidmi9">
+    <img src="https://img.shields.io/badge/XIAOMI MI9-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://t.me/joinchat/SZyfc5TPdW1Fgs2E">
+    <img src="https://img.shields.io/badge/ZTE AXON7-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
