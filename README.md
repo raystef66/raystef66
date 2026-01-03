@@ -1,4 +1,5 @@
-![raystef66's github stats](https://github-readme-stats.vercel.app/api?username=raystef66&show_icons=true&theme=radical)
+![GitHub stats](https://stats-github-readme.vercel.app/api?username=raystef66&show_icons=true&count_private=true&theme=merko)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raystef66&color=green&style=plastic" alt="raystef66" /> </p>
 
 
